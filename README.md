@@ -1,6 +1,6 @@
-# Download page for my curriculum
+# CV download page
 
-This site automatically downloads my curriculum
+This site automatically downloads my curriculum, which is stored in [my other repo](https://github.com/albertomosconi/curriculum).
 
-- **/**: english cv
-- **/it**: italian cv
+- **[cv.albertomosconi.it](https://cv.albertomosconi.it/)**: english cv
+- **[cv.albertomosconi.it/it](https://cv.albertomosconi.it/it/)**: italian cv
