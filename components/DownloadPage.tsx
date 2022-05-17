@@ -17,12 +17,12 @@ const DownloadPage = ({ desc, link, info, link_text }: Props) => {
     let l = document.getElementsByTagName('a')[0];
     l.click();
     setTimeout(() => router.back(), 1000);
-  }, []);
+  }, [router]);
 
   return (
     <div>
       <Head>
-        <title>Alberto Mosconi's CV</title>
+        <title>CV Alberto Mosconi</title>
         <meta name='description' content={desc} />
       </Head>
       <main className={styles.main}>
